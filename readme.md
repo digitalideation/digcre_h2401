@@ -10,14 +10,14 @@
 In this module we will explore different applications of ML/AI/DL with a particular focus on design and art. We will first learn how neural networks work with simple code examples, then we will experiment with different techniques of Deep Learning:
 
 - DL applied to Computer Vision (image classification, objects detection, pose estimation...)
-- Generative Deep Learning (DeepDream, style transfer, GANs...)
+- Generative Deep Learning (ImageGen, LLM, Audio...)
 - etc...
 
 Once we get a good grasp of the different techniques, we will experiment further by building our own ‘AI’ project. :space_invader:
 
 ## Schedule
 
-### [Week 01](content/week01.md) | [:clapper:](https://drive.switch.ch/index.php/s/GEiul0myblz6JJf)
+### [Week 01](content/week01.md)
 
 - Students intro :wave:
 - Intro: General
@@ -25,61 +25,9 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inner working of a Neural Network
 - Intro to tools: Colab / Jupyter
 
-### [Week 02](content/week02.md) | [:clapper:](https://drive.switch.ch/index.php/s/MNhBQgPwrspNB72)
+### [Week 02](#)
 
-- Looking back at the inner working of a NN
-- Intro to tools: TF, Pytorch
-- First steps with Pytorch
-- Building a simple classifier
-
-### Week 03 | [:clapper:](https://drive.switch.ch/index.php/s/AA3iEiAyOUymKhu)
-
-- ImageGen :ferris_wheel:
-
-### Week 04
-
-- Lectures (x2) by [Lewis Tunstall](https://twitter.com/_lewtun)
-  - Hugging Face part 01 :hugs: (NLP, Transformers, HF API)
-    - [Video :clapper:](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8)
-    - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
-  - Hugging Face part 02 :hugs: (Image generation)
-    - [Video :clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
-    - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
-  - [Related discord posts from Lewis](./assets/images/lewtun_discord_posts.png)
-
-### Week 05 | [:clapper:](https://drive.switch.ch/index.php/s/FxhRo0C7bzBgjt6)
-
-- **Onsite**, catching up on projects, sharing / discussions
-
-### [Week 06](content/week06.md) | [:clapper:](https://drive.switch.ch/index.php/s/WDnHxhVAdJ8ZnWs)
-
-- Principles
-- Responsibilities
-- References
-- **LLM**
-
-### [Week 07](content/week07.md) | [:clapper:](https://drive.switch.ch/index.php/s/qFcrmh3sYLSHVUM)
-
-- Research
-
-### Week 08 | [:clapper:](https://drive.switch.ch/index.php/s/16XaQdnWmI55MVc)
-
-- ImageGen (Round 2 :boom:)
-- Research
-
-### Week 09 | [:clapper:](https://drive.switch.ch/index.php/s/z8rhaYZv8unScpy)
-
-- Audio + Ngrok
-
-### Week 10
-
-- Animation! And then some... :)
-
-### [Week 11?](content/week11.md) | [:clapper:](https://drive.switch.ch/index.php/s/Gh1QU2vk3g5t423)
-
-- Presentations
-- Feedback!
-- Lost count of the weeks :S
+- TBA
 
 ## Evaluation
 
