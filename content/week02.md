@@ -5,43 +5,40 @@ title: 'Week 02'
 
 ## Intro
 
-This week we look back at what we learned so far and get a first taste of Keras / Pytorch.
+This week we look at tools and inspirations, in that order, or not...
 
 ## Schedule
 
-| Time    | Desc                                 |
-| ------- | ------------------------------------ |
-| 10 mins | Sharing and inspiration              |
-| 10 mins | What is colab?                       |
-| 50 mins | Keras & Pytorch: Intro + first steps |
-| 10 mins | Break                                |
-| 50 mins | Practice / research                  |
+| Time    | Desc                             |
+| ------- | -------------------------------- |
+| 5 mins  | Touching base                    |
+| 15 mins | Tools                            |
+| 30 mins | First steps with Colab / Jupyter |
+| 10 mins | Break                            |
+| 50 mins | Other tools                      |
 
 ## Content
 
-- Sharing and inspiration
-- [:question: what is colab](https://digitalideation.github.io/digcre_h2401/slides/week02.html)
-- Intro to tools: [Keras](https://keras.io/)
-- [First steps with Keras](https://github.com/digitalideation/digcre_h2401/tree/master/samples/week02)
-  - First Look
-  - Classifying movie reviews
-  - Shape classifier
-- Intro to tools: [Pytorch](https://pytorch.org/)
-- [First steps with Pytorch](https://github.com/digitalideation/digcre_h2401/tree/master/samples/week02)
-  - Using pretrained models
-  - All as tensors
-  - Turn real-world data into tensors
+- Touching base
+- [:question: Tools](https://digitalideation.github.io/digcre_h2401/slides/week02.html)
+- Intro to tools: [Keras](https://keras.io/) / [Pytorch](https://pytorch.org/)
+- First steps with Colab / Jupyter
+- Other tools
+  - Replicate
+  - HF
+  - TBA
 
 ## Goal
 
 The goal this week is to:
 
-1. Start using Pytorch / Keras
-2. Start learning how to deploy models
+1. Start using Colab / Pytorch / Keras
+2. Getting familiar with the many different ways we can interact with models
+3. :rotating_light: Make a poster image for our Discord :rotating_light:
 
 ## Preparation work
 
-Practice you Python skills, do some research for tools / ideas.
+Practice your (Python?) skills, do some research for more tools / ideas.
 
 ## Going further
 
