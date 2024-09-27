@@ -25,9 +25,9 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inner working of a Neural Network
 - Intro to tools: Colab / Jupyter
 
-### [Week 02](#)
+### [Week 02](content/week02.md)
 
-- TBA
+- Tools + Inspiration
 
 ## Evaluation
 
