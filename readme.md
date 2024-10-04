@@ -29,7 +29,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Tools + Inspiration
 
-### [Week 03](#)
+### [Week 03](#) | [:clapper:](https://hslu.zoom.us/rec/share/S490FdwDCuMQN5KxftROv5fk66t7buYFUHBL_IXQ-NlKr6dVmZw9QCBCwsmclsKC.btleUyFjOsLT_EIw)
 
 - Focus on ImageGen
 
