@@ -29,6 +29,10 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Tools + Inspiration
 
+### [Week 03](#)
+
+- Focus on ImageGen
+
 ## Evaluation
 
 ### Evaluation criteria:
