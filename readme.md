@@ -75,6 +75,10 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 12
 
+- TBD (On demand)
+
+### Week 13
+
 - Presentation
 
 ## Evaluation
