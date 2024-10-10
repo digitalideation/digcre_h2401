@@ -35,8 +35,8 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 04 :point_left:
 
-- Prompting
 - Creative Process
+- Prompting
 - Inspiration
 - Research
 
