@@ -20,7 +20,7 @@ This week we look at the creative process and what has changed with ML / AI, do 
 
 ## Content
 
-<video controls src="videos/rick_rubin.mp4" title="Title"></video>
+<video controls width=100% src="videos/rick_rubin.mp4" title="Title"></video>
 
 - [Creative Process](../slides/week03_04.pdf)
 - Inspiration
