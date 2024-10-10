@@ -29,9 +29,53 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Tools + Inspiration
 
-### [Week 03](#) | [:clapper:](https://hslu.zoom.us/rec/share/S490FdwDCuMQN5KxftROv5fk66t7buYFUHBL_IXQ-NlKr6dVmZw9QCBCwsmclsKC.btleUyFjOsLT_EIw)
+### Week 03 | [:clapper:](https://hslu.zoom.us/rec/share/S490FdwDCuMQN5KxftROv5fk66t7buYFUHBL_IXQ-NlKr6dVmZw9QCBCwsmclsKC.btleUyFjOsLT_EIw)
 
 - Focus on ImageGen
+
+### Week 04 :point_left:
+
+- Prompting
+- Creative Process
+- Inspiration
+- Research
+
+### Week 05
+
+- ML vs HL
+- LLM
+
+### Week 06
+
+- Audio generation
+
+### Week 07
+
+- Project discussions
+
+### Week 08
+
+- ML from scratch
+- Model conversion
+- Other frameworks (JS)
+- Hardware / local setup (good practice)
+- Conda, docker, etc...
+
+### Week 09
+
+- TBD (On demand)
+
+### Week 10
+
+- TBD (On demand)
+
+### Week 11
+
+- TBD (On demand)
+
+### Week 12
+
+- Presentation
 
 ## Evaluation
 
