@@ -20,7 +20,7 @@ This week we look at the creative process and what has changed with ML / AI, do 
 
 ## Content
 
-<video controls width=100% src="videos/rick_rubin.mp4" title="Title"></video>
+<video controls width=100% src="https://github.com/digitalideation/digcre_h2401/raw/refs/heads/main/content/videos/rick_rubin.mp4" title="Rick Rubi"></video>
 
 - [Creative Process](../slides/week03_04.pdf)
 - Inspiration
