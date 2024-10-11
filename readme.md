@@ -33,7 +33,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Focus on ImageGen
 
-### [Week 04](content/week04.md) :point_left:
+### [Week 04](content/week04.md) | [:clappers:](https://hslu.zoom.us/rec/share/vEWObp2igh40-DOkY0zfOaLTn8PodO8TB-tv5fx4izuuoHS7gGZDSBCIV5ubdAl0.7x4aescwUjWGQHdK)
 
 - Creative Process
 - Prompting
