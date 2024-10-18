@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'Week 06'
+title: 'Week 05'
 ---
 
 ## Intro
@@ -19,7 +19,7 @@ This week we talk about Principles, Responsibilities and try our hands on LLM bu
 ## Content
 
 - Catching up, sharing, inspiration, etc...
-- [Principles / Responsibilities + Q&A](https://digitalideation.github.io/digcre_h2401/slides/week06.html)
+- [Principles / Responsibilities + Q&A](https://digitalideation.github.io/digcre_h2401/slides/week05.html)
 - LLM
 
 ## Goal
