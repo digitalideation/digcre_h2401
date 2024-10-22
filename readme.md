@@ -40,7 +40,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inspiration
 - Research
 
-### [Week 05](content/week05.md)
+### [Week 05](content/week05.md) | [:clapper:](https://hslu.zoom.us/rec/share/0hm4ozCYsKvmVXxUfxO0k-ZXry00dfDYYvxkzXJzf1h_SJZdSZIYx_2VqwoHncDz.syPjbXHMy8m5cQMk)
 
 - ML vs HL
 - LLM
