@@ -49,21 +49,19 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Audio generation
 
-### Week 07
+### ~~Week 07~~ (Holidays)
+
+### Week 08
 
 - Project discussions **(on site)**
 
-### Week 08
+### Week 09
 
 - ML from scratch
 - Model conversion
 - Other frameworks (JS)
 - Hardware / local setup (good practice)
 - Conda, docker, etc...
-
-### Week 09
-
-- TBD (On demand)
 
 ### Week 10
 
