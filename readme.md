@@ -45,13 +45,13 @@ Once we get a good grasp of the different techniques, we will experiment further
 - ML vs HL
 - LLM
 
-### Week 06
+### [Week 06](content/week06.md)
 
 - Audio generation
 
 ### Week 07
 
-- Project discussions
+- Project discussions **(on site)**
 
 ### Week 08
 
@@ -75,11 +75,11 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 12
 
-- TBD (On demand)
+- Presentation
 
 ### Week 13
 
-- Presentation
+- Finalise documentation, etc...
 
 ## Evaluation
 
