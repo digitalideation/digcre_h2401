@@ -45,7 +45,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - ML vs HL
 - LLM
 
-### [Week 06](content/week06.md)
+### [Week 06](content/week06.md) | [:clapper:](https://hslu.zoom.us/rec/share/i9Nwhzs6ufV66Vnw4tnHFCh-YGp_i7Djo8j9EngU0_dMkFsugPNiSFj2duzR_Ptc.N5Txs9Kvf7PEDkw5)
 
 - Audio generation
 
