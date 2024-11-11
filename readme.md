@@ -51,17 +51,19 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### ~~Week 07~~ (Holidays)
 
-### Week 08
+### Week 08 | [:clapper:](https://hslu.zoom.us/rec/share/ZTb2s0_VIKtrqvfUlJlChRUtZuwLNssScEjLEngBPsxnPsDgSyPzfQoNigGUnIw.xLyCNEtRb9QCf19p)
 
 - Project discussions **(on site)**
+- [**Exit ticket** - Please fill](https://forms.gle/VGr144QCZEHpHnWY9)
 
 ### Week 09
 
-- ML from scratch
-- Model conversion
-- Other frameworks (JS)
-- Hardware / local setup (good practice)
-- Conda, docker, etc...
+- TBA
+- ~~ML from scratch~~
+- ~~Model conversion~~
+- ~~Other frameworks (JS)~~
+- ~~Hardware / local setup (good practice)~~
+- ~~Conda, docker, etc...~~
 
 ### Week 10
 
