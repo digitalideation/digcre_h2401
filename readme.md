@@ -56,14 +56,9 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Project discussions **(on site)**
 - [**Exit ticket** - Please fill](https://forms.gle/VGr144QCZEHpHnWY9)
 
-### Week 09
+### Week 09 | [:clapper:](https://drive.switch.ch/index.php/s/LIMM6gmsAVAFsZP)
 
-- TBA
-- ~~ML from scratch~~
-- ~~Model conversion~~
-- ~~Other frameworks (JS)~~
-- ~~Hardware / local setup (good practice)~~
-- ~~Conda, docker, etc...~~
+- Feedback
 
 ### Week 10
 
