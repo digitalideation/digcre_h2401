@@ -60,17 +60,17 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Feedback
 
-### Week 10
+### Week 10 | (no recording)
 
-- TBD (On demand)
+- Group work
 
 ### Week 11
 
 - TBD (On demand)
 
-### Week 12
+### Week 12 - **December 13th**
 
-- Presentation
+- **Presentation**
 
 ### Week 13
 
@@ -87,6 +87,12 @@ Once we get a good grasp of the different techniques, we will experiment further
 ### Deliverables:
 
 - Presentation / Source code / Documentation
+
+### Important dates
+
+* Presentation: **2024.12.13**
+* Feedback + Discussion: from **2024.12.16 to 2024.12.20** 
+* Source Code + Documentation deadline: **2025.01.06** (Ilias)
 
 ## Academic integrity
 
